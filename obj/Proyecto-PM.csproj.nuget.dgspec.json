@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno\\Desktop\\Proyecto-PM\\Proyecto-PM.csproj": {}
+    "C:\\xampp\\htdocs\\Proyecto-PM\\Proyecto-PM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno\\Desktop\\Proyecto-PM\\Proyecto-PM.csproj": {
+    "C:\\xampp\\htdocs\\Proyecto-PM\\Proyecto-PM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno\\Desktop\\Proyecto-PM\\Proyecto-PM.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Proyecto-PM\\Proyecto-PM.csproj",
         "projectName": "Proyecto-PM",
-        "projectPath": "C:\\Users\\alumno\\Desktop\\Proyecto-PM\\Proyecto-PM.csproj",
-        "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno\\Desktop\\Proyecto-PM\\obj\\",
+        "projectPath": "C:\\xampp\\htdocs\\Proyecto-PM\\Proyecto-PM.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\Proyecto-PM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
